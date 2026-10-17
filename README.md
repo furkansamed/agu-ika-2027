@@ -2,6 +2,8 @@
 
 Abdullah Gül Üniversitesi TEKNOFEST İnsansız Kara Aracı (İKA) ekibinin eğitim dosyaları.
 
+👋 **Önce şunu okuyun:** [Merhaba arkadaşlar](Merhaba_Arkadaslar.md) — dosyaların düzeni, birkaç tavsiye ve ek video kaynakları.
+
 Her ders kendi klasöründedir. Dosyaları açmak için klasöre girip PDF'e tıklayın; GitHub PDF'i tarayıcıda gösterir, sağ üstteki indirme düğmesiyle de bilgisayarınıza alabilirsiniz.
 
 ## Dersler
