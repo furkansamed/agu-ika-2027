@@ -11,12 +11,17 @@ Her ders kendi klasöründedir. Dosyaları açmak için klasöre girip PDF'e tı
 | Ders | Tarih | Dosyalar |
 |---|---|---|
 | 1. Ders | 17.10.2026, 10.00 | [01_Ders_2026-10-17](01_Ders_2026-10-17/) |
+| 2. Ders | 25.10.2026 | [02_Ders_2026-10-25](02_Ders_2026-10-25/) |
 
 ### 1. Ders · 17.10.2026
 
 1. [Yarışma bir sayfada](01_Ders_2026-10-17/01_Yarisma_Bir_Sayfada.pdf): yarışmanın kısa özeti ve bu haftanın sorusu.
 2. [Sistem mimarisi](01_Ders_2026-10-17/02_Sistem_Mimarisi.pdf): aracın blok diyagramı, 7 sayfa.
 3. [İKA Teknoloji Rehberi](01_Ders_2026-10-17/03_IKA_Teknoloji_Rehberi.pdf): güçten yazılıma bütün alt sistemler, 82 sayfa.
+
+### 2. Ders · 25.10.2026
+
+1. [Örnek İKA mekanik tasarımı](02_Ders_2026-10-25/Ornek_IKA_Mekanik_Tasarim.pdf): gereksinimden FreeCAD modeline, üretimden sahaya bir İKA'yı adım adım tasarlamak, 116 sayfa.
 
 ## Kaynaklar
 
