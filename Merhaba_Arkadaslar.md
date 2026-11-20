@@ -36,17 +36,17 @@ Yarışma bir hedef, ama asıl kazanç bu yolda öğreneceğiniz şeyler. Merak 
 Konuları biraz daha derinlemesine merak edenler için birkaç video (hepsi İngilizce):
 
 ### Otonom gezinme
-- [What Is Autonomous Navigation? (Autonomous Navigation, Part 1)](https://www.youtube.com/watch?v=Fw8JQ5Q-ZwU&list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg) – MATLAB · *serinin diğer bölümleri listede*
+- [What Is Autonomous Navigation? (Autonomous Navigation, Part 1)](https://www.youtube.com/watch?v=Fw8JQ5Q-ZwU&list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg) · MATLAB · *serinin diğer bölümleri listede*
 
 ### Odometri (aracın kendi konumunu hesaplaması)
-- [Odometry 101 for FIRST Tech Challenge Robots](https://www.youtube.com/watch?v=Av9ZMjS--gY) – DrBatanga
-- [Learn the Math behind Odometry (Essence of Robot Odometry Pt. 2)](https://www.youtube.com/watch?v=vxSK2NYtYJQ) – Rex Liu
+- [Odometry 101 for FIRST Tech Challenge Robots](https://www.youtube.com/watch?v=Av9ZMjS--gY) · DrBatanga
+- [Learn the Math behind Odometry (Essence of Robot Odometry Pt. 2)](https://www.youtube.com/watch?v=vxSK2NYtYJQ) · Rex Liu
 
 ### Kontrol sistemleri ve PID
-- [Everything You Need to Know About Control Theory](https://www.youtube.com/watch?v=lBC1nEq0_nk) – MATLAB
-- [A real control system - how to start designing](https://www.youtube.com/watch?v=Mbx5IMICS_Y) – Brian Douglas
-- [PID vs. Other Control Methods: What's the Best Choice](https://www.youtube.com/watch?v=lRZ4NT5DRk8) – RealPars
-- [Controlling Self Driving Cars](https://www.youtube.com/watch?v=4Y7zG48uHRo) – AerospaceControlsLab
+- [Everything You Need to Know About Control Theory](https://www.youtube.com/watch?v=lBC1nEq0_nk) · MATLAB
+- [A real control system - how to start designing](https://www.youtube.com/watch?v=Mbx5IMICS_Y) · Brian Douglas
+- [PID vs. Other Control Methods: What's the Best Choice](https://www.youtube.com/watch?v=lRZ4NT5DRk8) · RealPars
+- [Controlling Self Driving Cars](https://www.youtube.com/watch?v=4Y7zG48uHRo) · AerospaceControlsLab
 
 ---
 
